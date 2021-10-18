@@ -22,7 +22,7 @@ This repository aims to provide links to works about privacy attacks and privacy
 1. **A Survey on Graph Neural Network Privacy Attacks and Preservation (coming soon!).**
    *authors include NDS Lab members.* 
 1. **GNN Surveys (to be added).**
-1. **Privacy in ML (to be added.**
+1. **Privacy in ML (to be added).**
  
 
 ## 2. GNN Privacy Attack Papers
@@ -53,7 +53,7 @@ This repository aims to provide links to works about privacy attacks and privacy
 1. **Releasing Graph Neural Networks with Differential Privacy Guarantees.** *Iyiola E. Olatunji, Thorben Funke, and Megha Khosla.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2109.08907.pdf)
 2. **Graph Embedding for Recommendation against Attribute Inference Attacks.** *Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Lizhen Cui, Xiangliang Zhang.* WWW 2021. [[paper]](https://arxiv.org/pdf/2101.12549.pdf)
 3. **Information Obfuscation of Graph Neural Networks.** *Peiyuan Liao, Han Zhao, Keyulu Xu, Tommi Jaakkola, Geoffrey Gordon, Stefanie Jegelka, and Ruslan Salakhutdinov.* ICML 2021. [[paper]](http://proceedings.mlr.press/v139/liao21a/liao21a.pdf)[[code]](https://github.com/liaopeiyuan/GAL)
-4. **eLocally Private Graph Neural Networks.** *Sina Sajadmanesh and Daniel Gatica-Perez.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2006.05535.pdf)[[code]](https://github.com/sisaman/LPGNN)
+4. **Locally Private Graph Neural Networks.** *Sina Sajadmanesh and Daniel Gatica-Perez.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2006.05535.pdf)[[code]](https://github.com/sisaman/LPGNN)
 
 ### 3.4 Federated Learning Approaches
 1. **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification.** *Jun Zhou, Chaochao Chen, Longfei Zheng, Huiwen Wu, Jia Wu, Xiaolin Zheng, Bingzhe Wu, Ziqi Liu, and Li Wang.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2005.11903.pdf)
