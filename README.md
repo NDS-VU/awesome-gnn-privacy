@@ -26,7 +26,7 @@ This repository aims to provide links to works about privacy attacks and privacy
 
 ## 2. GNN Privacy Attack Papers
 ### 2.1 Membership Inference Attack
-1. **example title 1.** CONFERENCE/arXiv 2021. [[paper]](url to paper pdf)[[code]](url to code)
+1. **Membership Inference Attack on Graph Neural Networks.** *Iyiola E. Olatunji,Wolfgang Nejdl, and Megha Khosla* arXiv 2021. [paper](https://arxiv.org/pdf/2101.06570.pdf)
 1. **example title 2.** CONFERENCE/arXiv 2021. [[paper]](url to paper pdf)[[code]](url to code)
 
 ### 2.2 Link Inference Attack
