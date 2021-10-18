@@ -19,8 +19,8 @@ This repository aims to provide links to works about privacy attacks and privacy
 	* [3.4 Federated Learning](#34-federated-learning-approaches)
 
 ## 1. Survey Papers
-1. **A Survey on Graph Neural Network Privacy Attacks and Preservation (coming soon!).**
-   *authors include NDS Lab members.* 
+1. **A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications (coming soon!).**
+   *authors from NDS Lab and ORNL.* 
 1. **GNN Surveys (to be added).**
 1. **Privacy in ML (to be added).**
  
