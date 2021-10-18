@@ -26,12 +26,14 @@ This repository aims to provide links to works about privacy attacks and privacy
 
 ## 2. GNN Privacy Attack Papers
 ### 2.1 Membership Inference Attack
-1. **Membership Inference Attack on Graph Neural Networks.** *Iyiola E. Olatunji,Wolfgang Nejdl, and Megha Khosla* arXiv 2021. [paper](https://arxiv.org/pdf/2101.06570.pdf)
-1. **example title 2.** CONFERENCE/arXiv 2021. [[paper]](url to paper pdf)[[code]](url to code)
+1. **Membership Inference Attack on Graph Neural Networks.** *Iyiola E. Olatunji,Wolfgang Nejdl, and Megha Khosla.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2101.06570.pdf)
+2. **Node-Level Membership Inference Attacks Against Graph Neural Networks.** *Xinlei He, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, and Yang Zhang.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2102.05429.pdf)
+3. **Quantifying Privacy Leakage in Graph Embedding.** *Vasisht Duddu, Antoine Boutet, and Virat Shejwalkar.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2010.00906.pdf)
 
 ### 2.2 Link Inference Attack
-1. **example title 1.** CONFERENCE/arXiv 2021. [[paper]](url to paper pdf)[[code]](url to code)
-1. **example title 2.** CONFERENCE/arXiv 2021. [[paper]](url to paper pdf)[[code]](url to code)
+1. **Stealing Links from Graph Neural Networks.** *Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang.* USENIX Security 2021. [[paper]](https://www.usenix.org/system/files/sec21summer_he.pdf)
+2. **Quantifying Privacy Leakage in Graph Embedding** *Vasisht Duddu, Antoine Boutet, and Virat Shejwalkar.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2010.00906.pdf)
+3. **GraphMI: Extracting Private Graph Data from Graph Neural Networks.** *Zaixi Zhang, Qi Liu, Zhenya Huang, Hao Wang, Chengqiang Lu, Chuanren Liu, and Enhong Chen.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2106.02820.pdf)[[code]](https://github.com/zaixizhang/GraphMI)
 
 ### 2.3 Attribute Inference Attack
 1. **example title 1.** CONFERENCE/arXiv 2021. [[paper]](url to paper pdf)[[code]](url to code)
