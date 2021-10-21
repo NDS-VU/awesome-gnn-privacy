@@ -11,7 +11,6 @@ This repository aims to provide links to works about privacy attacks and privacy
 * [2. GNN Privacy Attack Papers](#2-gnn-privacy-attack-papers)
 	* [2.1 Membership Inference Attack](#21-membership-inference-attack)
 	* [2.2 Link Inference Attack](#22-link-inference-attack)
-  * [2.3 Attribute Inference Attack](#23-attribute-inference-attack) 
 * [3. GNN Privacy Preservation Papers](#3-gnn-privacy-preservation-papers)
 	* [3.1 Latent Factor Disentangling](#31-latent-factor-disentangling)
 	* [3.2 Adversarial Training](#32-adversarial-training)
@@ -37,9 +36,6 @@ This repository aims to provide links to works about privacy attacks and privacy
 3. **Quantifying Privacy Leakage in Graph Embedding** *Vasisht Duddu, Antoine Boutet, and Virat Shejwalkar.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2010.00906.pdf)
 4. **GraphMI: Extracting Private Graph Data from Graph Neural Networks.** *Zaixi Zhang, Qi Liu, Zhenya Huang, Hao Wang, Chengqiang Lu, Chuanren Liu, and Enhong Chen.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2106.02820.pdf)[[code]](https://github.com/zaixizhang/GraphMI)
 5. **Inference Attacks Against Graph Neural Networks.** *Zhikun Zhang, Min Chen, Michael Backes, Yun Shen, and Yang Zhang.* USENIX Security 2022. [[paper]](https://arxiv.org/pdf/2110.02631.pdf)[[code]](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)
-
-### 2.3 Attribute Inference Attack
-1. **Quantifying Privacy Leakage in Graph Embedding** *Vasisht Duddu, Antoine Boutet, and Virat Shejwalkar.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2010.00906.pdf)
 
 ## 3. GNN Privacy Preservation Papers
 ### 3.1 Latent Factor Disentangling
