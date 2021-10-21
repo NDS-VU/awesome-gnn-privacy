@@ -46,7 +46,7 @@ This repository aims to provide links to works about privacy attacks and privacy
 2. **NetFense: Adversarial Defenses against Privacy Attacks on Neural Networks for Graph Data.** *I-Chung Hsieh and Cheng-Te Li.* IEEE-TKDE 2021. [[paper]](https://arxiv.org/pdf/2106.11865.pdf)[[code]](https://github.com/ICHproject/NetFense/)
 
 ### 3.3 Differentially Private Approaches
-1. **Locally Private Graph Neural Networks.** *Sina Sajadmanesh and Daniel Gatica-Perez.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2006.05535.pdf)[[code]](https://github.com/sisaman/LPGNN)
+1. **Locally Private Graph Neural Networks.** *Sina Sajadmanesh and Daniel Gatica-Perez.* CCS 2021. [[paper]](https://arxiv.org/pdf/2006.05535.pdf)[[code]](https://github.com/sisaman/LPGNN)
 2. **Releasing Graph Neural Networks with Differential Privacy Guarantees.** *Iyiola E. Olatunji, Thorben Funke, and Megha Khosla.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2109.08907.pdf)
 3. **Graph Embedding for Recommendation against Attribute Inference Attacks.** *Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Lizhen Cui, Xiangliang Zhang.* WWW 2021. [[paper]](https://arxiv.org/pdf/2101.12549.pdf)
 4. **Information Obfuscation of Graph Neural Networks.** *Peiyuan Liao, Han Zhao, Keyulu Xu, Tommi Jaakkola, Geoffrey Gordon, Stefanie Jegelka, and Ruslan Salakhutdinov.* ICML 2021. [[paper]](http://proceedings.mlr.press/v139/liao21a/liao21a.pdf)[[code]](https://github.com/liaopeiyuan/GAL)
