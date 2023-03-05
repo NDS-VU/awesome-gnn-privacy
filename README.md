@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![License](https://img.shields.io/github/license/NDS-VU/awesome-gnn-privacy-papers.svg?color=blue)⠀[![NDS-VU](https://img.shields.io/twitter/follow/nds_vu?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=nds_vu)⠀
 
-This repository aims to provide links to works about privacy attacks and privacy preservation on graph data with Graph Neural Networks (GNNs).
+This repository aims to provide links to works about privacy attacks and privacy preservation on graph data with Graph Neural Networks (GNNs). Additionally, this repository provides links to relevent datasets that have been used or can be potentially used for privacy study with graphs.
 
 ### Contents
 
@@ -16,6 +16,8 @@ This repository aims to provide links to works about privacy attacks and privacy
 	* [3.2 Adversarial Training](#32-adversarial-training)
 	* [3.3 Differentially Private Approaches](#33-differentially-private-approaches)
 	* [3.4 Federated Learning](#34-federated-learning-approaches)
+* [4. Datasets](#4-datasets)
+
 
 ## 1. Survey Papers
 1. **A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications (coming soon!).**
@@ -54,6 +56,24 @@ This repository aims to provide links to works about privacy attacks and privacy
 ### 3.4 Federated Learning Approaches
 1. **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification.** *Jun Zhou, Chaochao Chen, Longfei Zheng, Huiwen Wu, Jia Wu, Xiaolin Zheng, Bingzhe Wu, Ziqi Liu, and Li Wang.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2005.11903.pdf)
 2. **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** *Chuhan Wu, Fangzhao Wu, Yang Cao , Yongfeng Huang, and Xing Xie.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2102.04925.pdf)
+
+## 4. Datasets
+
+The datasets that have been used or can be potentially used for privacy study with graphs are categorized into various domains, including social network, citation network, user-item, molecule, and protein. Their satistics are shown in the following table and the links to access each dataset are provided below.
+
+<img width="571" alt="Screen Shot 2023-03-05 at 4 18 41 PM" src="https://user-images.githubusercontent.com/58016786/222989031-5fd7e56a-ef21-4a30-9a68-c9541f47eb7e.png">
+
+**Social Network**: [Facebook](https://snap.stanford.edu/data/ego-Facebook.html), [Twitter](https://snap.stanford.edu/data/ego-Twitter.html), [LastFM](https://snap.stanford.edu/data/feather-lastfm-social.html), [Reddit](https://paperswithcode.com/dataset/reddit), [Computers](https://docs.dgl.ai/en/0.9.x/generated/dgl.data.AmazonCoBuyComputerDataset.html)
+
+**Citation Network**: [Cora](https://paperswithcode.com/dataset/cora), [Citeseer](https://paperswithcode.com/dataset/citeseer), [PubMed](https://paperswithcode.com/dataset/pubmed), [DBLP](https://www.dropbox.com/s/yh4grpeks87ugr2/DBLP_processed.zip?dl=1), [ogbn-arxiv](https://ogb.stanford.edu/docs/nodeprop), [Aminer](https://www.aminer.org/data/)
+
+**User-Item**: [Flixster](http://datasets.syr.edu/datasets/Flixster.html), [Douban](https://www.kaggle.com/datasets/utmhikari/doubanmovieshortcomments), [YahooMusic](https://webscope.sandbox.yahoo.com)
+
+**Molecule**: [NCI1](https://paperswithcode.com/dataset/nci1), [AIDS](https://paperswithcode.com/dataset/aids), [OVCAR-8H](https://remap2022.univ-amu.fr/biotype_page/OVCAR-8:9606)
+
+**Protein**: [PROTEINS](https://paperswithcode.com/dataset/proteins), [ENZYMES](https://paperswithcode.com/dataset/enzymes)
+
+
 
 **License**
 
