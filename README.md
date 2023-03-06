@@ -77,4 +77,4 @@ The datasets that have been used or can be potentially used for privacy study wi
 
 **License**
 
-- [CC0 Universal](https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/LICENSE)
+- [CC0 Universal](https://github.com/NDS-VU/awesome-gnn-privacy/blob/main/LICENSE)
