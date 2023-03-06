@@ -1,4 +1,4 @@
-# Awesome Graph Neural Network Privacy Attack and Preservation Research Papers
+# Awesome Graph Neural Network Privacy Attack and Preservation Papers and Datasets
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![License](https://img.shields.io/github/license/NDS-VU/awesome-gnn-privacy-papers.svg?color=blue)⠀[![NDS-VU](https://img.shields.io/twitter/follow/nds_vu?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=nds_vu)⠀
